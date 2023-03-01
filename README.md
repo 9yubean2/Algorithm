@@ -1,10 +1,12 @@
 # Algorithm
 
 
-<div style="display: flex">
+<div style="display: flex; align-items:center; gap:30px">
 
 <img src="https://grepp-programmers.s3.amazonaws.com/production/file_resource/879/thumbnail_13213.png" width="400px"/>
 
+
+<div>
 
 ## ` 📌 Rule `
 
@@ -12,6 +14,7 @@
 
 2. 조급해하지 말 것!
 
+</div>
 </div>
 
 
