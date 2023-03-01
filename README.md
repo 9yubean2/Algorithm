@@ -1,11 +1,20 @@
 # Algorithm
 
-![Image Description](https://grepp-programmers.s3.amazonaws.com/production/file_resource/879/thumbnail_13213.png)
 
-__` ⚠️ Caution`__
+<div style="display: flex">
+
+<img src="https://grepp-programmers.s3.amazonaws.com/production/file_resource/879/thumbnail_13213.png" width="400px"/>
+
+
+## ` 📌 Rule `
+
 1. 하루에 한 챕터씩!
 
 2. 조급해하지 말 것!
+
+</div>
+
+
 
 <br/>
 
