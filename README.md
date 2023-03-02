@@ -1,23 +1,15 @@
 # Algorithm
 
 
-<div style="display: flex; align-items:center; gap:30px">
+<img src="https://grepp-programmers.s3.amazonaws.com/production/file_resource/879/thumbnail_13213.png" width="400px" style="display:block; margin:auto;"/>
 
-<img src="https://grepp-programmers.s3.amazonaws.com/production/file_resource/879/thumbnail_13213.png" width="400px"/>
-
-
-<div>
+<br/>
 
 ## ` 📌 Rule `
 
 1. 하루에 한 챕터씩!
 
 2. 조급해하지 말 것!
-
-</div>
-</div>
-
-
 
 <br/>
 
