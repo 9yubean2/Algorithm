@@ -39,9 +39,9 @@ function teacher_solution(s){
     // return stack.length===0?true:false;
     return stack.length===0;
 }
-// 사실 여기서 stack에서 값을 빼서 사용하지 않기 때문에 스택을 쓰는 이유가 크게 없다.
+// 사실 여기서 stack에서 값을 빼서 사용 X
+// 스택을 쓰는 이유가 크게 없다.
 // 좀 더 간단하고 메모리 적게 사용하는 풀이 가능
-
 
 function teacher_solution2(s){
     //스택의 원리는 사용하지만 스택은 사용하지 않는다.
